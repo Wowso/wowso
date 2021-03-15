@@ -19,7 +19,7 @@
 <image src="https://img.shields.io/badge/Python-yellow?style=flat-square&logo=Python&logoColor=white"/>
 <image src="https://img.shields.io/badge/GraphQL-ff69b4?style=flat-square&logo=GraphQL&logoColor=white"/>
 <image src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-<image src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<image src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   </p>
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wowso&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
